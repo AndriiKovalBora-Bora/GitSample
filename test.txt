@@ -1,3 +1,4 @@
-Hello Git 27272727dsfsdf
+Hello Git
+
 New Line
 The newest line
