@@ -1,4 +1,4 @@
-Hello Git
+Hello Git Branch Lesson
 
 New Line
 The newest line
